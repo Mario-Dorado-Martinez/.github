@@ -1,12 +1,11 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/3o7TKT9rp8S9fWFAYM/giphy.gif" alt="header" aling="center">
 
-<!--
+# Accounts and Projects hub
 
-**Here are some ideas to get you started:**
+Here you can find all my projects and accounts
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Accounts
+
+- [@mdoradom](https://www.github.com/mdoradom)
+
+- [@marioxddd](https://www.github.com/marioxddd)
